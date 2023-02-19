@@ -1,0 +1,7 @@
+.env/
+
+dist/
+poetry.lock
+pyproject.toml
+
+jasmin_logo.png
