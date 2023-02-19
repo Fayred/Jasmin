@@ -1,7 +1,8 @@
-.env/
-
 dist/
 poetry.lock
 pyproject.toml
+
+.env/
+__pycache__/
 
 jasmin_logo.png
